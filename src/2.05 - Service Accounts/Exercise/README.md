@@ -45,8 +45,6 @@ Confirm that the squadron pods are using the correct service account
 
 You should see all pods using `sa-squadron`.
 
----
-
 ## 📚 Resources
 
 - [Service Accounts](https://kubernetes.io/docs/concepts/security/service-accounts/)
