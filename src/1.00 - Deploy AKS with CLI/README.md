@@ -19,7 +19,6 @@ You will:
 3. Enable **OIDC issuer** and **managed identity**.
 4. Deploy into a designated **resource group** and region.
 
----
 
 ## 🧭 Step-by-step: constructing the Imperial AKS Outpost
 
